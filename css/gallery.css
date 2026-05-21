@@ -1,0 +1,11 @@
+.captions {
+    border-style: solid;
+    border-radius: 5px;
+    margin-top: 5px;
+    padding: 20px;
+    width: 300px;
+}
+
+.gallery_pics {
+    width: 300px;
+}
